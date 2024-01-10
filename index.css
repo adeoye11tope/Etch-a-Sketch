@@ -1,0 +1,41 @@
+#container{
+    border: 1px solid black;
+   
+    
+    width: 960px;
+    height: 960px;
+    display: flex;
+    
+    
+    
+    
+    
+}
+.color-item{
+    background-color: #ffffff;
+}
+.color-item:hover{
+    background-color: #0000ff;
+}
+.color-item1{
+    background-color: #ffffff;
+}
+.color-item1:hover{
+    background-color: #0000ff;
+}
+.grid-item{
+    border: 1px solid black;
+    
+    
+    
+    display: flex;
+    
+    flex-direction: column;
+    
+    flex:1 ;
+}
+ .grid-item1{
+    border: 1px solid black;
+    flex: 1;
+
+}
